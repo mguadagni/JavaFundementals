@@ -16,4 +16,5 @@ boolean / 1 / true,false
 
 /////////////////////////////////
 
-
+implicit casting
+byte > short > int > long > float > double
